@@ -1,0 +1,20 @@
+do while (Mstree.DKP < maxDKP)
+{
+	consoleType ("/t " + GM.Name.To.String() + "!bid 1");
+	if (GM.isRefundingDKP())
+	{
+		consoleType ("/t" + GM.Name.To.String() + "need refund for " + crapLoot1 + "upgraded to " + leetLoot1);
+
+	Mstree.Starfire();
+	Mstree.Moonfire();
+	Mstree.Moonfire();
+	}
+
+	if (loot.Color() == purple);
+		if (loot.Type() == "BOE");
+		do while (raid.NotLooking()) 
+		{
+			Mstree.Ninja();
+		}
+	Mstree.MoonkinDance();
+}
